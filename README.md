@@ -4,7 +4,11 @@ Materials for course of Computational genomics on School of Electrical Engineeri
 
 ## Getting Started
 
-Clone the repository and run notebooks in Jupyter environment.
+Clone the repository and run notebooks in Jupyter environment:
+
+```
+jupyter-notebook &
+```
 
 ## Prerequisites
 
