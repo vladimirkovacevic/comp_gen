@@ -21,3 +21,5 @@ pip3 install pandas
 pip3 install nose
 
 ```
+## Project assignments
+The [list](https://docs.google.com/document/d/1XqrPYwFnEYNOKzHntZQfz1L8b59BN8WIVvNgDyIUE0I/edit#) of project assignments.
