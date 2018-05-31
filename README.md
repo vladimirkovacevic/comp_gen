@@ -21,5 +21,10 @@ pip3 install pandas
 pip3 install nose
 
 ```
+## RNA-Seq analysis lectures:
+
+[slides](https://markozecevic.github.io/etfgenomics/)
+[github](https://github.com/markozecevic)
+
 ## Project assignments
 The [list](https://docs.google.com/document/d/1XqrPYwFnEYNOKzHntZQfz1L8b59BN8WIVvNgDyIUE0I/edit#) of project assignments.
